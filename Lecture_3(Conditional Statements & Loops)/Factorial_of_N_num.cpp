@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int N,Fact=1,i=1;
-    cout<<"Factorial of a Number"<<endl;
+    cout<<"------Factorial of a Number------"<<endl;
     cout<<"Enter a N umber to Calculate its Factorial: ";
     cin>>N;
     while (i<=N)
